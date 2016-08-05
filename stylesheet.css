@@ -1,0 +1,33 @@
+img {
+	width: 64em;
+	height: 20em;
+}
+/*Spalten-Layout*/
+header{
+	width: 64em;
+	height: 20em;
+	
+}
+
+nav {
+	width: 16em;
+	float:left;
+	height: 15 em;
+	margin-top:2em;
+	
+}
+
+main{
+	margin-top:2em;
+	margin-left: 16.1em;
+	width: 48em;
+	min-height: 15em;
+}
+
+footer{
+	width: 64em;
+	float:left;
+	border-radius: 20px;
+	margin: auto;
+	text-align: right;
+}
