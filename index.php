@@ -11,7 +11,14 @@
 			<img src="bilder/freiheitsstatue.jpg" alt="Freiheitsstatue">
   	</header>
 	<main>
-		<h1></h1>
+		<h1>Willkommen, Bienvenue, Welcome</h1>
+		<p> Zu meinem ganz persönlichen Blog nur für dich und mich<br>
+		...und alle mit denen du ihn teilen willst xD </p>
+		<p> Mir war etwas langweilig und ich wollte mal versuchen meinen eigenen Blog aufzubauen. <br>
+		Deshalb werd ich in den nächsten Monaten hier ran immer mal wieder weiter basteln.<br>
+		Ich hab noch keine Ahnung wie sich des hier entwickeln wird...</p>
+		
+		Hier gehts zum ersten Blog eintrag: <a href="/blog/sf.php">San Francisco</a>
 	
 	
 	</main>
