@@ -1,3 +1,9 @@
+body {
+	margin-left: 10em;
+	margin-right:10em;
+	background-color: #FFFAF7;
+	font-family: calibri;
+}
 img {
 	width: 64em;
 	height: 20em;
@@ -8,7 +14,6 @@ header{
 	height: 20em;
 	
 }
-
 nav {
 	width: 16em;
 	float:left;
